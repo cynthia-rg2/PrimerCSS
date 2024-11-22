@@ -29,6 +29,8 @@ nav img{
 }
 
 nav img:hover{
+    width: 30px;
+    height: 30px;
     transform: scale(3);
 }
 
